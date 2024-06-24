@@ -13,6 +13,7 @@ function Lists() {
   console.log(data,"data");
   return (
     <>
+    <h6>Full stack app with aws</h6>
       <table>
         <tr>
           <th>Id</th>
