@@ -10,7 +10,7 @@ function Lists() {
       .then((data) => setData(data));
       debugger
   }, []);
-  console.log(data);
+  console.log(data,"data");
   return (
     <>
       <table>
